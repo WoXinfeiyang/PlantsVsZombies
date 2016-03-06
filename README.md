@@ -16,14 +16,14 @@
 	1、该项目目前正在完善中，目前初步将cocos-2d游戏引擎引入到项目中，完成部分功能，主要实现了以下功能： &nbsp;
 </p>
 <p>
-	&nbsp; &nbsp; &nbsp; &nbsp;#使用Tiled绘制僵尸行走路线地图。
+	&nbsp;#使用Tiled绘制僵尸行走路线地图。
 </p>
 <p>
-	<span style="white-space: pre;">&nbsp;     </span>#完成欢迎界面和菜单界面。
+	&nbsp;#完成欢迎界面和菜单界面。
 </p>
 <p>
-	<span style="white-space: pre;">&nbsp;   </span> #完成植物选择功能框架，目前只完成攻击值为100的攻击豌豆的选择，后续会不断增加其它可选植物。
+	&nbsp; #完成植物选择功能框架，目前只完成攻击值为100的攻击豌豆的选择，后续会不断增加其它可选植物。
 </p>
 <p>
-	&nbsp; &nbsp; &nbsp; #完成僵尸对战功能，包括僵尸攻击植物、植物发射子弹、子弹攻击僵尸等功能，使用多线程实时检测碰撞问题。 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	&nbsp;#完成僵尸对战功能，包括僵尸攻击植物、植物发射子弹、子弹攻击僵尸等功能，使用多线程实时检测碰撞问题。 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
